@@ -82,7 +82,17 @@ def count_up(target, n):
     return count_up(target, count[0])
     
 
-count_up(12,0)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
